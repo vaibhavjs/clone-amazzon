@@ -74,8 +74,8 @@ const Payment = () => {
 					</div>
 					<div className="payment__address">
 						<p>{user?.email}</p>
-						<p>KG 679<sup>st</sup></p>
-						<p>Kigali, Rwanda</p>
+						<p>Near<sup>Koramangala</sup></p>
+						<p>Bangalore, KN</p>
 					</div>
 				</div>
 
